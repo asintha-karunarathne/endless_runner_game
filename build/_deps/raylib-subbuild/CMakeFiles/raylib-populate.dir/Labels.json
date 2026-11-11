@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/57444ccb4e85725ec790d2e027fc9cfa/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/f2e58bdc861bc19a11447ad93e59f914/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-subbuild/CMakeFiles/a4c9feb0cfd9c3483a96ac5c83c80cc3/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

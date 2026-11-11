@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\a4c9feb0cfd9c3483a96ac5c83c80cc3\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\f2e58bdc861bc19a11447ad93e59f914\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\57444ccb4e85725ec790d2e027fc9cfa\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Asintha\OneDrive\Desktop\game\hh\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6F3808B1-7344-305B-8FB0-B8E07EA6E16E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

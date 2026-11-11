@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Asintha/OneDrive/Desktop/game/hh/build/cmake_install.cmake",
+		"C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-build/cmake_install.cmake",
+		"C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"C:/Users/Asintha/OneDrive/Desktop/game/hh/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
